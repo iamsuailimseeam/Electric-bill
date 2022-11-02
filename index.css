@@ -1,0 +1,19 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  
+}
+.tbl{
+  font-size: 20pt;
+  width: 100%;
+  font-family: 'Times New Roman', Times, serif;
+  border: 5px;
+  border-color: #a6d2e833;
+}
+.tbl th{
+  color: #78c9f2;
+}
+.frame-nesco{
+  width: 100%;
+  height: 100%;
+}
